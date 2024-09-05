@@ -6,6 +6,11 @@
 * [唯客學院粉絲專頁](https://www.facebook.com/vcdemy/)
 * [唯客學院線上課程](https://vcdemy.teachable.com)
 
+## 安裝 OpenCV
+
+```bash
+pip install opencv-python
+```
 ## 課程內容：
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/khpy_opencv_intro/)
