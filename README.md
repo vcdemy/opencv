@@ -11,9 +11,14 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/khpy_opencv_intro/)
 
 * OpenCV 簡介
-* 讀取圖片
-* 讀取影片
+* 讀取圖片/圖片存檔
+* 讀取影片/寫入影片
 * 讀取WebCam
+* Image Filtering
+* Image Enhancement
+* Image Alignment
+* Object Detection
+* Object Tracking
 * 應用實務
   * 實作 Face Detection
   * 實作 Filtering
